@@ -1,3 +1,5 @@
 # Curso Digital: GIT
 # Untracked > Unmodified > Modified > Staged
-# Comentario novo 2 EEEE AEE .
+# Comentario novo
+
+* Uso do comando restore 
