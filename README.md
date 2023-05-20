@@ -2,4 +2,4 @@
 # Untracked > Unmodified > Modified > Staged
 # Comentario novo
 
-* Uso do comando restore 
+* Uso do comando restore  a
